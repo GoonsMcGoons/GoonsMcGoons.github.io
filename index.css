@@ -1,8 +1,9 @@
- font-family: Georgia;
-    text-shadow: 3px 5px #75e776;
+ h1 {
+  font-family: Georgia;
+  text-shadow: 3px 5px #75e776;
 }
 
-ul{
+ul {
   color: #bada55;
   text-shadow: 1px 2px #c0ffee;
 }
