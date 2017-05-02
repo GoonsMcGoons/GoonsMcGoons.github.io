@@ -1,6 +1,10 @@
-h1 {
-    color: maroon;
-    font-family: Georgia;
+ font-family: Georgia;
+    text-shadow: 3px 5px #75e776;
+}
+
+ul{
+  color: #bada55;
+  text-shadow: 1px 2px #c0ffee;
 }
 
 body {
